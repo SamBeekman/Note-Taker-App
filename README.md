@@ -32,6 +32,8 @@ To use this app, enter your note title and body in the supplied fields and save 
 
 ## Contributing
 
+The front-end starter code for this project was supplied by the EdX FullStack Coding Bootcamp.
+
 If you wish to contribute to this or any of my projects, contact me via the details supplied below.
 
 
