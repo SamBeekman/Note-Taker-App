@@ -21,6 +21,8 @@ The aim of this project was to create the back end for a note taking app that wo
 
 No installation is required, simply navigate to the webpage.
 
+Link to deployed application on Heroku: https://pacific-falls-47493-f8270f162e75.herokuapp.com/
+
 ![localhost_3001_notes](https://github.com/SamBeekman/Note-Taker-App/assets/131665093/e8dd0227-a46a-470c-9e4c-444c6dc25ff8)
 
 ## Usage
