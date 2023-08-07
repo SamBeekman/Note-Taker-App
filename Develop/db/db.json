@@ -3,5 +3,15 @@
         "title": "get good at coding",
         "text": "try really hard",
         "id": "1c219ca5-2cb6-422e-a3ec-38d7a02f3795"
+    },
+    {
+        "title": "Shopping List",
+        "text": "-eggs\n-bread\n-milk\n-caviar\n",
+        "id": "6ca1f800-e252-446a-8c19-8c00486597e5"
+    },
+    {
+        "title": "Movies to watch",
+        "text": "- Rocky\n- Mulholland Drive\n- Harikari",
+        "id": "6e509338-bbf0-4b97-a632-bcd8d8dbd733"
     }
 ]
